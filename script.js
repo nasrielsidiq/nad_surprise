@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
       newGif.className = 'tenor-gif-embed';
       newGif.setAttribute('data-postid', '5913713879540817573');
       newGif.setAttribute('data-aspect-ratio', '1');
-      newGif.setAttribute('data-width', '50%');
+      newGif.setAttribute('data-width', '10%');
       container.insertBefore(newGif, question);
 
       // Jalankan ulang script Tenor
